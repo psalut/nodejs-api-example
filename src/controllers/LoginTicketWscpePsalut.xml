@@ -1,0 +1,8 @@
+<loginTicketRequest>
+  <header>
+  <uniqueId>05092022</uniqueId>
+  <generationTime>2022-09-05T14:40:00</generationTime>
+  <expirationTime>2022-09-06T14:50:00</expirationTime>
+  </header>
+  <service>wscpe</service>
+</loginTicketRequest>
